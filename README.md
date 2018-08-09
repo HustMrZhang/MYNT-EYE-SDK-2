@@ -27,9 +27,9 @@ Please follow the guide doc to install the SDK on different platforms.
 
 ## Firmwares
 
-[MYNTETE_BOX]: http://doc.myntai.com/mynteye/s/download
+[MYNTEYE_BOX]: http://doc.myntai.com/mynteye/s/download
 
-Get firmwares from our online disks: [MYNTETE_BOX][]. The latest version is `2.0.1-rc0`.
+Get firmwares from our online disks: [MYNTEYE_BOX][]. The latest version is `2.0.1-rc0`.
 
 ## Usage
 
