@@ -27,10 +27,9 @@ Please follow the guide doc to install the SDK on different platforms.
 
 ## Firmwares
 
-[Google Drive]: https://drive.google.com/drive/folders/1tdFCcTBMNcImEGZ39tdOZmlX2SHKCr2f
-[百度网盘]: https://pan.baidu.com/s/1yPQDp2r0x4jvNwn2UjlMUQ
+[MYNTETE_BOX]: http://doc.myntai.com/mynteye/s/download
 
-Get firmwares from our online disks: [Google Drive][], [百度网盘][]. The latest version is `2.0.1-rc0`.
+Get firmwares from our online disks: [MYNTETE_BOX][]. The latest version is `2.0.1-rc0`.
 
 ## Usage
 
